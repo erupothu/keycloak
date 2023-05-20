@@ -1,4 +1,4 @@
-# keycloak
+# keycloak Authorization Server
 
 1. Install and Run Keycloak Server with Database  
 2. Confgure keycloak in Backend servers like  
@@ -8,3 +8,5 @@
 3. Configure keycloak in Frontend servers like  
     a. __Angular__  
     b. __ReactJs__  
+
+#### Configure LDAP Serer for Authentication
