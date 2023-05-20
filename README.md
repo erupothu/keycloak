@@ -9,4 +9,4 @@
     a. __Angular__  
     b. __ReactJs__  
 
-#### Configure LDAP Serer for Authentication
+#### Configure LDAP Server for Authentication
